@@ -1,0 +1,1 @@
+<h2 style="color: blue;">News pages working</h2>
